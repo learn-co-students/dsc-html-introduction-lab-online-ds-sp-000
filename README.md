@@ -1,4 +1,4 @@
-
+<doctype>
 # HTML Introduction - Lab
 
 ## Introduction
