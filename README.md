@@ -1,6 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
 
 # HTML Introduction - Lab
 
+<p> This is the title </p>
+
+</head>
+
+<body>
+
+<p> This is a body paragraph </p>
 ## Introduction
 
 It's time to practice making a well formatted HTML document! While you may normally prefer to work locally, you're encouraged to work on this lesson through the Learn platform, as it will be formatted nicely, with screenshots inline to guide you and a built-in development environment.
@@ -66,3 +78,7 @@ the changes instantly.
 ## Summary
 
 Well done! You just practiced writing your own structured HTML document!
+
+</body>
+
+</html>
